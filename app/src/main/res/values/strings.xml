@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Подписка</string>
+    <string name="button">OK</string>
+    <string name="button_clear">Очистить</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="user_email">Электронная почта</string>
+
+    <string name="success" />
+    <string name="hint_name">Введите имя</string>
+    <string name="hint_email">Введите электронную почту</string>
+
+
+</resources>
